@@ -53,7 +53,7 @@ body:
         3. Choose a large file (over 100MB)
         4. Click "Upload"
         5. See error
-      value: |
+      value: |      
         1. 
     validations:
       required: true
